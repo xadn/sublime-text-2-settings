@@ -1,0 +1,9 @@
+{
+	"auto_upgrade_last_run": 1320854222,
+	"repositories":
+	[
+		"https://github.com/simongregory/actionscript3-tmbundle",
+		"https://github.com/jashkenas/coffee-script-tmbundle",
+		"https://github.com/miksago/jade-tmbundle"
+	]
+}
